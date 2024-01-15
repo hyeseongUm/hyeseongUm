@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FFD8D8&height=300&section=header&text=HyeseongUm&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FFD8D8&height=300&section=header&text=HyeseongUm&fontSize=90&fontColor=353535"/>
 [![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeseong&layout=compact)](https://github.com/Hyeseong/github-readme-stats)
 
 <!--

@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD8D8&height=300&section=header&text=HyeseongUm&fontSize=90&fontColor=353535"/>
 [![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeseong&layout=compact)](https://github.com/Hyeseong/github-readme-stats)
+<a href="https://seong-ee.tistory.com/" target="_blank"><img src="https://img.shieds.io/badge/Tstory-E3C4FF?style=뱃지모양&logo=#000000&logoColor=로고색상"/></a>
 
 <!--
 **hyeseongUm/hyeseongUm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

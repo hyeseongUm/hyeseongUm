@@ -1,5 +1,8 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFFED7&height=300&section=header&text=Hyeseong Um&fontSize=70/)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeseongUm&fontSize=90" />
+[![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hyeseongUm/hyeseongUm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -15,7 +15,7 @@
 ![css3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:https://mail.google.com/mail)](5391nks@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:5391nks@gmail.com)](https://mail.google.com/mail)
 
 
 ![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&show_icons=true&theme=swift)

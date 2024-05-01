@@ -29,7 +29,7 @@
 <a href="https://seong-ee.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=for-the-badge&logo=tistory&logoColor=white&link=https://seong-ee.tistory.com/"/></a>
 <br><br>
 
-![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeseongUm&layout=compact)
+![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&show_icons=true&theme=swift)(https://github.com/hyeseongUm?tab=repositories)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeseongUm&layout=compact)(https://github.com/hyeseongUm?tab=repositories)
 
 </div>

@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD8D8&height=300&section=header&text=HyeseongUm&fontSize=90&fontColor=353535"/>
-[![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeseong&layout=compact)](https://github.com/Hyeseong/github-readme-stats)
+[![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&layout=compact)](https://github.com/Hyeseong/github-readme-stats)
 <a href="https://seong-ee.tistory.com/" target="_blank"><img src="https://img.shieds.io/badge/Tstory-E3C4FF?style=뱃지모양&logo=#000000&logoColor=로고색상"/></a>
 
 <!--
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Follow Me ✨</h3>
 <p align="center">
   <a href="https://www.instagram.com/hyeseong_ee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pretzel_2m3/"/></a>&nbsp
-  <a href="mailto:nks0561@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:5391nks@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5391nks@naver.com&hide=contribs,prs&show_icons=true&theme=테마)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&show_icons=true&bg_color=00000000)

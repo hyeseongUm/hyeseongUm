@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <a href="mailto:5391nks@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 
 </p>
-![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&theme=dark&show_icons=true)
+<a href="https://github.com/hyeseongUm/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/449617150a0dba2c2da63193888fdcd4248a1c500d354c18056fc6b704c27cb3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeseongUm&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
 

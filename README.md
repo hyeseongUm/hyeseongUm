@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/hyeseong_ee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pretzel_2m3/"/></a>&nbsp
   <a href="mailto:5391nks@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-[![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=5391nks@naver.com)](https://github.com/hyeseongUm/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 

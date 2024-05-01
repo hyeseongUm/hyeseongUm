@@ -22,9 +22,12 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <br><br>
 
-##  Follow me  <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:5391nks@gmail.com)](https://mail.google.com/mail)
-
+## 🌈 Follow me 🌈 <br>
+<a href="mailto:5391nks@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF8383?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:5391nks@gmail.com"/></a>
+<a href="mailto:5391nks@naver.com"><img src="https://img.shields.io/badge/Nmail-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:5391nks@naver.com"/></a>
+<a href="https://www.notion.so/e530499930ee487bb32baef79c9cbbcb?pvs=4/"><img src="https://img.shields.io/badge/notion-EAEAEA?style=for-the-badge&logo=notion&logoColor=black&link=https://www.notion.so/e530499930ee487bb32baef79c9cbbcb?pvs=4/"/></a>
+<a href="https://seong-ee.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=for-the-badge&logo=tistory&logoColor=white&link=https://seong-ee.tistory.com/"/></a>
+<br><br>
 
 ![Hyeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeseongUm&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeseongUm&layout=compact)
